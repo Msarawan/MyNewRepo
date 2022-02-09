@@ -12,4 +12,7 @@ This is my New Repo File:-
 }
 
 
+Output:
+
+Welcome to GitHub
 
