@@ -1,4 +1,15 @@
-Welcome to GitHub
 
-This is my NewRepoFile:
+
+This is my New Repo File:
+
+
+ public class student
+{
+    public static void main(string args[])
+      {
+         system.out.println("Welcome to GitHub");
+      }
+}
+
+
 
