@@ -7,7 +7,7 @@ This is my New Repo File:-
 {
     public static void main(string args[])
       {
-         system.out.println("Welcome to GitHub Account");
+         system.out.println("Welcome to GitHub");
       }
 }
 
